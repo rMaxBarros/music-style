@@ -1,0 +1,17 @@
+.terms {
+    display: flex;
+    margin-top: 2rem;
+}
+
+.terms input {
+    background-color: transparent;
+    width: 2rem;
+    height: 2rem;
+    border-style: solid;
+    outline: none;
+    margin-right: 1rem;   
+}
+
+.terms p {
+    font-size: 1.4rem;
+}

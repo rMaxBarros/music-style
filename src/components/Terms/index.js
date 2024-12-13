@@ -1,3 +1,5 @@
+import './Terms.css';
+
 function Terms () {
     return (
         <>
