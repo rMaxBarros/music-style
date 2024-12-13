@@ -4,3 +4,9 @@ main {
     align-items: center;
     justify-content: center;
 }
+
+main h2 {
+    font-size: 3rem;
+    font-weight: 300;
+    margin-top: 9rem;
+}

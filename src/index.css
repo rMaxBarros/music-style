@@ -22,7 +22,7 @@ body {
   background-repeat: no-repeat;
   object-fit: cover;
   color: var(--ghost-white);
-
+  font-family: var(--body-font);
   
 }
 
