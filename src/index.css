@@ -6,18 +6,20 @@
 :root {
   --title-font: "Cabin Condensed", sans-serif;
   --body-font: "Encode Sans Semi Expanded", sans-serif;
+
+  --ghost-white: #FFFAFF;
+  --celestial-blue: #3E92CC;
 }
 
 body {
   margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 
   background-image: url("/public/images/background.svg");
   background-size: 100%;
   
   background-repeat: no-repeat;
   object-fit: cover;
+
   
 }
 
