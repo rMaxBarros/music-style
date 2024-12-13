@@ -1,0 +1,16 @@
+.first {
+    border-width: 0.4rem;
+    border-radius: 0.2rem;
+    border-color: var(--ghost-white);
+    border-top: none;
+    border-right: none;
+    margin: 3rem 0 3rem 0;
+}
+
+.second {
+    border-width: 0.4rem;
+    border-radius: 0.2rem;
+    border-color: var(--ghost-white);
+    border-top: none;
+    border-left: none;
+}
