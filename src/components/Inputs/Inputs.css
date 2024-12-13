@@ -6,6 +6,8 @@ input {
     margin-bottom: 2rem;
     border-style: solid;
     outline: none;
+    font-size: 2rem;
+    padding-left: 2rem;
 }
 
 input::placeholder {
