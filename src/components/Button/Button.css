@@ -1,0 +1,17 @@
+button {
+    padding: 1.4rem 1.9rem;
+    width: 19rem;
+    border-radius: 0.9rem;
+    border: none;
+    font-size: 2rem;
+    background-color: var(--celestial-blue);
+    opacity: 70%;
+    color: var(--ghost-white);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 100%;
+}
+
