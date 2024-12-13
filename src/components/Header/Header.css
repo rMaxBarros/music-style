@@ -1,3 +1,9 @@
+header {
+    background-image: url("/public/images/diviser.svg");
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+
 h1 {
     font-family: var(--title-font);
     color: var(--ghost-white);
