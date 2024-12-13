@@ -4,9 +4,11 @@
 }
 
 .terms input {
+    all: unset;
     background-color: transparent;
-    width: 2rem;
-    height: 2rem;
+    border-color: var(--celestial-blue);
+    width: 1.6rem;
+    height: 1.6rem;
     border-style: solid;
     outline: none;
     margin-right: 1rem;   
@@ -14,4 +16,9 @@
 
 .terms p {
     font-size: 1.4rem;
+}
+
+.terms input[type="checkbox"]:checked {
+    background-color: var(--ghost-white);
+    border-color: var(--celestial-blue);
 }
