@@ -1,0 +1,15 @@
+input {
+    background-color: transparent;
+    width: 78rem;
+    height: 5rem;
+    color: var(--ghost-white);
+
+}
+
+input::placeholder {
+    color: var(--ghost-white);
+    opacity: 0.8;
+    font-size: 2rem;
+    font-weight: 200;
+    padding-left: 2rem;
+}
