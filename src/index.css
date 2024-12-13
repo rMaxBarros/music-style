@@ -9,6 +9,8 @@
 
   --ghost-white: #FFFAFF;
   --celestial-blue: #3E92CC;
+
+  font-size: 62.5%;
 }
 
 body {
@@ -19,6 +21,7 @@ body {
   
   background-repeat: no-repeat;
   object-fit: cover;
+  color: var(--ghost-white);
 
   
 }
